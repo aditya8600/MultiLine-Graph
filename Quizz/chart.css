@@ -1,0 +1,19 @@
+body{
+     background:linear-gradient(315deg,rgb(75, 178, 199),#d7d7d7);
+     justify-content: center;
+     display: flex;
+     align-items: center;
+     height: 100vh;
+
+}
+h3{
+    top: 67%;
+    left: 27%;
+    display: flex;
+    position: absolute;
+    color: rgba(68, 48, 48, 0.837);
+}
+#mychart{
+    width: 100%;
+    max-width: 650px;
+}
